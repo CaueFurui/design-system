@@ -1,0 +1,4 @@
+{
+  "extends": "@fur-ui/ts-config/react.json",
+  "include": ["src"]
+}
